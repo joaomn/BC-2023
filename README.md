@@ -2,7 +2,7 @@
 
 
 
-Sistema de CRUD com uma API padrão REST com Back-end feito em ASP NET 6 CORE utilizando EtityFramework  e Front-end Utilizando VueJs
+Sistema de CRUD com uma API padrão REST com Back-end feito em .NET 6 utilizando EtityFramework  e Front-end Utilizando VueJs
 
 
 Para a documentação da API basta Utilizar o swagger pelo link : http://localhost:8080/swagger
